@@ -22,6 +22,7 @@ org/problems/rubrik/MemoryAllocator.class
 org/problems/practise/WebCrawlerUsingCompletableFutureCompositePattern$UrlsCompositeFuture.class
 org/problems/rubrik/JobScheduler.class
 org/problems/rubrik/MemoryAllocator$Node.class
+org/problems/file_system/MemoryBuffer.class
 org/problems/practise/ChatApplication.class
 org/problems/practise/WebCrawlerUsingCompletableFutureCompositePattern$HtmlParser.class
 org/problems/practise/WebCrawlerUsingCompletableFuture.class
@@ -32,6 +33,7 @@ org/problems/practise/DjikstraAlgorithm.class
 org/problems/practise/Solution$HtmlParser.class
 org/problems/swiggy/FileSystemFactory.class
 org/problems/streams/MainClass.class
+org/problems/file_system/FileSystem.class
 org/problems/practise/TreeQueries.class
 org/problems/practise/WebCrawlerUsingRecursion.class
 org/problems/swiggy/IFileSystem.class
